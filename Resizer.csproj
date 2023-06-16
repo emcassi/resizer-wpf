@@ -5,6 +5,13 @@
     <TargetFramework>net6.0-windows</TargetFramework>
     <Nullable>enable</Nullable>
     <UseWPF>true</UseWPF>
+    <GenerateApplicationManifest>false</GenerateApplicationManifest>
+    <Title>Resizer</Title>
+    <Description>An quick, easy way to resize many photos at once.</Description>
+    <AssemblyName>Resizer</AssemblyName>
+    <Company>Alex Wayne</Company>
+    <Configuration>Release</Configuration>
+    <Copyright>Copyright © Alex Wayne 2023</Copyright>
   </PropertyGroup>
 
   <ItemGroup>
